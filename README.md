@@ -24,6 +24,12 @@ The raw dataset from Kaggle was cleaned using **Python (Pandas)**:
 ---
 
 ## 📊 Power BI Dashboard
+The interactive rainfall visualization dashboard is built using Power BI Desktop.
+
+🔗 **[Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/15oB3Zy7j-bXhy8g4vV5D1aXuVxcPMjfp/view?usp=sharing)**
+
+> 💡 Make sure you have Power BI Desktop installed to open and explore the dashboard.
+> Download Power BI: https://powerbi.microsoft.com/desktop/
 
 The dashboard includes:
 1. **📈 Rainfall Over Time** — Seasonal changes in precipitation  
